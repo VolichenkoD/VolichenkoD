@@ -9,6 +9,6 @@ Skills: Excel / Python / Data analysis / Building Models
 - 🌱 I’m currently learning neural networks and SQL
 - My banner with statistics on Codewars
 
-[![codewars](https://www.codewars.com/users/Duys24/badges/large)](https://www.codewars.com/users/Duys24)
+[![codewars](https://www.codewars.com/users/Duys8/24/badges/large)](https://www.codewars.com/users/Duys8/24)
 
 
