@@ -4,8 +4,8 @@
 I know the principles
 of basic neural network architectures for computer vision tasks: classification, segmentation, detection.
 
-I am proficient in
-Python and the main libraries for training neural networks, such as PyTorch, OpenCV and scikit-learn.
+I'm good at
+Python and know the main libraries for training neural networks, such as PyTorch, OpenCV and scikit-learn.
 
 [![codewars](https://www.codewars.com/users/Duys8/24/badges/large)](https://www.codewars.com/users/Duys8/24)
 
