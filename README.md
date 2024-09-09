@@ -1,13 +1,11 @@
 ### Hi there 👋, my name is Denis
-#### I am Machine Learning Engineer
+#### I've been doing machine learning for two years, participated in startups, competitions and doing my own projects. 
 
-Looking for a job in this area, at the same time I take part in competitions on Kaggle.
+I know the principles
+of basic neural network architectures for computer vision tasks: classification, segmentation, detection.
 
-Skills: Python / PyTorch / ML / Computer Vision / PostgreSQL
-
-- 🔭 I’m currently working on object detection and object tracking 
-- 🌱 I’m currently learning neural networks and PostgreSQL
-- My banner with statistics on [Codewars](https://www.codewars.com/users/Duys8%2F24)
+I am proficient in
+Python and the main libraries for training neural networks, such as PyTorch, OpenCV and scikit-learn.
 
 [![codewars](https://www.codewars.com/users/Duys8/24/badges/large)](https://www.codewars.com/users/Duys8/24)
 
